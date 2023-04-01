@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
+    <link src="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    <style>
+        body{
+            background-color: #f4f5f8;
+            margin:0;
+        }
+        @media only screen and (max-width: 639px) {
+            .width-xs {
+                width: 100% !important;
+                
+                height: auto !important;
+            }
+
+            .padding-left-none.display-none {
+                display: none;
+            }
+            .block {
+                display: block !important;
+            }
+            .width-100-pct {
+                width: 100% !important;
+            }
+            .img-pad{
+                padding:0px !important;
+            }
+            .header-margin{
+                margin-top:20px !important;
+            }
+            .img-pad-top{padding-top:20px !important;
+        }
+        }
+    </style>
+</head>
+<body>
+    <table class="width-xs" style="width:600px; margin:0 auto;" width="640"
+    cellspacing="0" cellpadding="0" border="0" align="center">
+        <tbody>
+            <tr>
+                <td style="background-color: #FFFFFF;" bgcolor="#ffffff" align="center">
+                <table>
+                    <tbody>
+                        <tr>
+                            <td class="width-xs" style="padding: 0px 0;" align="center">
+                                <!-- preheader content -->
+                                <table class="width-xs" style="width:600px; Margin:0 auto;" width="640" cellspacing="0"
+                                    cellpadding="0" border="0" align="center">
+                                    <tbody>
+                                        <tr>
+                                            <td class="width-xs" style="background-color: #FFFFFF;" bgcolor="#ffffff" align="center">
+                                                <table
+                                                    style=" table-layout: fixed; border-bottom:2px solid black;"
+                                                    width="100%" cellspacing="0" cellpadding="0" border="0" align="left">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td style="text-align: left; padding-right: 8px; padding-bottom:4px;font-size: 12px; line-height: 12px; color: #6b6c72;"
+                                                                width="82%" align="left">
+                                                                sheela,we've got coveryou can rely on
+                                                            </td>
+                                                            <td style="text-align: right; font-size: 12px;padding-bottom:4px; line-height: 16px; text-align: right;"
+                                                                width="16%" align="right">
+                                                                View Online
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <tbody>
+                                
+                                    <tr>
+                                        <td class="width-xs"
+                                            style="text-align:center; padding:0px 0 0 0; "
+                                            align="left">
+
+                                            <p class="center"
+                                                style="font-weight: 300;margin:0px;font-size:18px;font-family: Arial, Helvetica, sans-serif">
+                                                M&S BANK </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td width="100%" class="width-xs"
+                                            style="text-align:center; padding:0px 0 0 0; "
+                                            >
+                                            <table width="100%" >
+                                                <tr>
+                                                    <td  style="text-align: center;">
+                                                        <table align="center">
+                                                            <tr>
+                                                                <td style="padding:5px;">
+                                                                    HOme Insurance
+                                                                </td>
+                                                                <td style="padding:5px;">
+                                                                    HOme Insurance
+                                                                </td>
+                                                                <td style="padding:5px;" >
+                                                                    HOme Insurance
+                                                                </td>
+                                                                <td style="padding:5px;">
+                                                                    HOme Insurance
+                                                                </td>
+                                                            </tr>
+
+                                                        </table>
+                                                    </td>
+                                                    
+                                                    
+
+                                                    
+                                                    
+                                    
+                                                </tr>
+                                            </table>
+                                        
+                                        </td>
+                                    </tr
+
+                            </tbody>
+                        </tr>
+                        <tr>
+                            <td>
+                                <table width="100%" height="140" style="width:100%;margin:0 auto;" height="150px">
+                                    <tr>
+                                        <td class="width-xs mobile-height-auto background-none" style="width:600px; height:144px; background-position:center; background-repeat:no-repeat;" width="640" valign="top" height="144" bgcolor="#0077c5" background="https://img.freepik.com/free-vector/hand-painted-watercolor-abstract-watercolor-background_23-2149005675.jpg?w=900&t=st=1680275573~exp=1680276173~hmac=bc93efff500025bef7178bbb926665104decc88748aadb71e507cbb402962ef7">
+                                            <table align="center">
+                                                <tr>
+                                                    <td>
+                                                        <tr>
+                                                            <td style="text-align: center;font-size: 28px;" >
+                                                                The clock is ticking
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="width-xs"style="text-align: center;font-size: 28px;">
+                                                                <img class="width-xs" src="https://media.tenor.com/x-rVfOnhdQwAAAAC/fortnite-season11-countdown.gif" />
+                    
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="width-xs">
+                                                                <table  width="100%" style="padding:20px 20px 0px 20px;">
+                                                                    <tr>
+                                                                        <td class="width-xs"bg color="#ffffff" class="width-xs"style="text-align: center;background-color:white;font-size: 28px;padding:20px;">
+                                                                            Insurance
+                                
+                                                                        </td>
+                                                                    </tr>
+                                                                </table>
+                    
+                                                                </td>
+                    
+                                                            
+                                                        </tr>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                                
+                              <table bgcolor="white" width="100%" >
+                                            <tbody>
+                                                <tr>
+                                                    <td style="text-align:center;font-size: 28px;
+                                                    ">
+                                                        Offer ends On  NOvember 2019
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="font-size: 18px;
+                                                    ">
+                                                        Hi Shilpa;
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="font-size: 18px;
+                                                    ">
+                                                        loreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsum
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        
+                                                    </td>
+                                                </tr>
+
+
+                                                </tbody>
+
+                            </table>
+                            <table style="width: 100%;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+                                <tbody><tr>
+                                    <th class="block width-100-pct img-pad" style="width:47%; padding:15px 20px 15px 0px;" width="47%" valign="top" align="center">
+                                        <img src="https://images.pexels.com/photos/220429/pexels-photo-220429.jpeg" style="width:262px; height:262px; Margin:0 auto;" alt="screenshot" class="laptop-img" width="262" height="262" border="0"> 
+                                    </th>
+                                    <th class="block width-100-pct img-pad " style="font-weight:normal; text-align:left; color:#393a3d; font-size:16px; padding:15px 0 15px 20px; line-height:24px; width:53%;" width="53%" valign="center" align="left">
+                                        <table style="width:100%;"  width="100%" cellspacing="0" cellpadding="0" border="0">
+                                            <tbody><tr>
+                                                <td class="width-100-pct " valign="top" align="center">
+                                                    loreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsum
+                                                </td>
+                                            </tr>
+                                        </tbody></table>
+                                    </th>
+                                </tr>
+                            </tbody></table>
+                            <table style="width: 100%;" width="100%" cellspacing="20" cellpadding="0" border="0" align="center">
+                                <tbody><tr>
+                                    <th class="block width-100-pct img-pad " style="font-weight:normal; text-align:left; color:#393a3d;border:6px solid skyblue;font-size:16px; padding:15px 0 15px 0; line-height:24px; width:50%;" width="50%" valign="center" align="left">
+                                        <table style="width:100%;"  width="100%" cellspacing="0" cellpadding="0" border="0">
+                                            <tbody><tr>
+                                                <td class="width-100-pct " valign="top" align="center">
+                                                    loreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsum
+                                                </td>
+                                                
+                                            </tr>
+                                            <tr>
+                                                <td style="padding-top: 30px ;" class="">
+                                                    
+
+                                                    <table cellspacing="0" cellpadding="0" border="0" align="center">
+                                                        <tbody>
+                                                            <tr>
+                                                               
+                                                                <td align="center" style="padding:20px 0px;">
+                                                                    <table cellspacing="0" cellpadding="0" border="0">
+                                                                        <tbody>
+                                                                            <tr>
+
+                                                                                <td style=" border-radius: 3px;font-size: 16px; color: #ffffff;padding: 12px 32px; background-color:#ff8000;" bgcolor="#ff8000" align="center">
+                                                                                    <a target="_blank" style="color: #ffffff; text-decoration: none; border: 0px solid #ff8000; display: inline-block; background-color:#ff8000; border-radius: 3px;font-weight: bold;" >find out more ></a>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+
+                                                    
+                                                </td>
+                                            </tr>
+                                        </tbody></table>
+                                    </th>
+                                    <th class="block width-100-pct img-pad header-margin" style="font-weight:normal; text-align:left; color:#393a3d;border:6px solid skyblue;font-size:16px; padding:15px 0 15px 0; line-height:24px; width:50%;" width="50%" valign="center" align="left">
+                                        <table style="width:100%;"  width="100%" cellspacing="0" cellpadding="0" border="0">
+                                            <tbody><tr>
+                                                <td class="width-100-pct " valign="top" align="center">
+                                                    loreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsumloreum ipsum
+                                                </td>
+                                                
+                                            </tr>
+                                            <tr>
+                                                <td style="padding-top: 30px ;" class="">
+                                                    
+
+                                                    <table cellspacing="0" cellpadding="0" border="0" align="center">
+                                                        <tbody>
+                                                            <tr>
+                                                               
+                                                                <td align="center" style="padding:20px 0px;">
+                                                                    <table cellspacing="0" cellpadding="0" border="0">
+                                                                        <tbody>
+                                                                            <tr>
+
+                                                                                <td style=" border-radius: 3px;font-size: 16px; color: #ffffff;padding: 12px 32px; background-color:#ff8000;" bgcolor="#ff8000" align="center">
+                                                                                    <a target="_blank" style="color: #ffffff; text-decoration: none; border: 0px solid #ff8000; display: inline-block; background-color:#ff8000; border-radius: 3px;font-weight: bold;" >find out more ></a>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+
+                                                    
+                                                </td>
+                                            </tr>
+                                        </tbody></table>
+                                    </th>
+                                   
+                                </tr>
+                            </tbody></table>
+
+                            <table width="100%">
+                                <tbody>
+                                    <tr>
+                                        <td style="text-align:center;
+                                        ">
+                                            Not ready for new cover right now.
+                                        </td>
+                                    </tr>
+                                </tbody>
+                                </table>
+
+                                
+                                        <tr>
+                                            <td>
+                                                <table width="100%">
+                                                    <tr>
+                                                        <td bgcolor="green" style="text-align: center;margin-right:2px;">
+                                                            
+                                                                pet
+                                                             </td>
+
+
+                                                             <td bgcolor="blue"  style="text-align: center;">
+                                                            
+                                                                pet
+                                                             </td>
+                                                             <td bgcolor="blue"  style="text-align: center;">
+                                                            
+                                                                pet
+                                                             </td>
+
+                                                             <td bgcolor="blue"  style="text-align: center;">
+                                                            
+                                                                pet
+                                                             </td>
+
+                                                            
+
+                                                    </tr>
+
+                                                    </table>
+<table width="100%" bgcolor="green" style="margin:0px;">
+    <tbody>
+        <tr>
+            <td>
+                Pet insurncce reneval remainder<i class="fa-regular fa-house"></i>
+            </td>
+        </tr>
+        <tr>
+            <td>
+               Tell us reneval remainder date and we contact to your support
+            </td>
+        </tr>
+
+    </tbody>
+
+
+</table>
+<table width="100%" class="width-100-pct" bgcolor="brown" style="margin:0px;">
+    <tbody>
+        <tr>
+            <td  class="" style="padding:px;text-align: center;">
+                JAN
+            </td>
+            <td class=""  style="padding:px;text-align: center;">
+               feb
+            </td>
+            <td class=""  style="padding:px;text-align: center;">
+                Mar
+            </td>
+            <td class=""  style="padding:px;text-align: center;">
+                apr
+            </td>
+            <td class=""  style="padding:px;text-align: center;">
+                May
+            </td>
+            <td class=""  style="padding:px;text-align: center;">
+                JUn
+            </td>
+        </tr>
+        <tr>
+            <td  style="padding:px;text-align: center;">
+                Jul
+            </td>
+            <td  style="padding:px;text-align: center;">
+               AUg
+            </td>
+            <td  style="padding:px;text-align: center;">
+                SEP
+            </td>
+            <td  style="padding:px;background-color: #FFFFFF;border:2px solid black
+            ;color:black;text-align: center;">
+                OCT
+            </td>
+            <td  style="padding:px;text-align: center;">
+                NOV
+            </td>
+            <td  style="padding:px;text-align: center;">
+                DEC
+            </td>
+        </tr>
+
+    </tbody>
+
+
+</table>
+                                            </td>
+
+                                            
+
+
+                                        </tr>
+                                    
+
+<tr>
+    <td bgcolor="gray">
+        <table  width="100%">
+            <tbody>
+                <tr>
+                    <td Style="text-align: center;">
+                        TERMS AND CONDITION
+                    </td>
+                </tr>
+                <tr>
+                    <td Style="text-align: left; font-size:12px;font-weight:normal;font-family:sans-serif">
+                       Tems and ccondtion Tems and ccondtion Tems and ccondtion Tems and ccondtionTems and ccondtionTems and ccondtion Tems and ccondtion Tems and ccondtion
+                    </td>
+                </tr>
+                <tr>
+                    <td Style="text-align: left; font-size:12px;font-weight:normal;font-family:sans-serif">
+                       Tems and ccondtion Tems and ccondtion Tems and ccondtion Tems and ccondtionTems and ccondtionTems and ccondtion Tems and ccondtion Tems and ccondtion
+                    </td>
+                </tr>
+                <tr>
+                    <td Style="text-align: left; font-size:12px;font-weight:normal;font-family:sans-serif">
+                       Tems and ccondtion Tems and ccondtion Tems and ccondtion Tems and ccondtionTems and ccondtionTems and ccondtion Tems and ccondtion Tems and ccondtion
+                    </td>
+                </tr>
+                <tr>
+                    <td Style="text-align: left; font-size:12px;font-weight:normal;font-family:sans-serif">
+                       Tems and ccondtion Tems and ccondtion Tems and ccondtion Tems and ccondtionTems and ccondtionTems and ccondtion Tems and ccondtion Tems and ccondtion
+                    </td>
+                </tr>
+                <tr>
+                    <td Style="text-align: left; font-size:12px;font-weight:normal;font-family:sans-serif">
+                       Tems and ccondtion Tems and ccondtion Tems and ccondtion Tems and ccondtionTems and ccondtionTems and ccondtion Tems and ccondtion Tems and ccondtion
+                    </td>
+                </tr>
+
+            </tbody>
+
+        </table>
+
+    </td>
+</tr>
+
+                                    
+                            </td>
+                        </tr>
+
+                    </tbody>
+
+                </table>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
